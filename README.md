@@ -1,5 +1,5 @@
 # Style Transfer
-<b>!!!CAUTION - At the time we modified this project it was tensorflow v0.12 and now it's tensorflow v1.1. We could not run this project on the latest tensorflow version since a lot has changed.</b>
+<b>!!!CAUTION - At the time we modified this project it was tensorflow v0.12 and now it's tensorflow v1.1. We could not run this project on the latest tensorflow version since a lot has changed. Try at your own risk!!!</b>
 
 ## Introduction
 Style transfer is the task of producing a pastiche image 'p' that shares the
@@ -32,6 +32,14 @@ To run the project you will need:
 
 ## Running
 
-To run this project, you need to setup google's magenta enviornment
+To run this project, you need to setup google's magenta enviornment. Please see https://github.com/tensorflow/magenta for more info about installing magenta. There are different options to setup the enviornment
+  * manually install with pip and anaconda
+  * autoinstall with anaconda
+  * docker setup - This worked for us.
+  
+## Dataset
+For the training we did, we used Japanese art sytle image randomly picked from the internet.
+img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/dataset.png" alt="alt text" width="850" height="500">
+  
 
 
