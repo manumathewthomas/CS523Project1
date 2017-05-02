@@ -41,7 +41,7 @@ For the training we did, we used Japanese art sytle image randomly picked from t
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/dataset.PNG" alt="alt text" width="850" height="500">
 
 
-## Result
+## Results
 Since we this was intended to run on a CPU we only trained it for 100 iterations.
 * Input
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/input.PNG" alt="alt text" width="850" height="500">
@@ -49,7 +49,7 @@ Since we this was intended to run on a CPU we only trained it for 100 iterations
 * Output
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/output.PNG" alt="alt text" width="850" height="500">
 
-## Improvement
+## Improvements
 * Train for a longer period of time
 * Ability to select multiple styles for one Image
 
