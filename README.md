@@ -17,7 +17,7 @@ In this project we ran a model of style transfer from the Magenta project by Goo
 * [Installation](#installation)
 * [Running](#running)
 * [Dataset](#dataset)
-* [Model](#Model)
+* [Model](#model)
 * [Results](#results)
 * [Improvements](#improvements)
 * [Credits](#credits)
