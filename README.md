@@ -39,7 +39,7 @@ To run this project, you need to setup google's magenta enviornment. Please see 
   
 ## Dataset
 For the training we did, we used Japanese art sytle image randomly picked from the internet.
-<img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/dataset.png" alt="alt text" width="850" height="500">
+<img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/dataset.PNG" alt="alt text" width="850" height="500">
   
 
 
