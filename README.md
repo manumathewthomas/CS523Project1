@@ -14,7 +14,6 @@ Manjunath Kudlur*.
 * [Installation](#installation)
 * [Running](#running)
 * [Dataset](#dataset)
-* [Hyperparameters](#hyperparameter)
 * [Results](#results)
 * [Improvements](#improvements)
 * [Credits](#credits)
@@ -40,6 +39,15 @@ To run this project, you need to setup google's magenta enviornment. Please see 
 ## Dataset
 For the training we did, we used Japanese art sytle image randomly picked from the internet.
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/dataset.PNG" alt="alt text" width="850" height="500">
-  
+
+
+## Result
+Since we this was intended to run on a CPU we only trained it for 100 iterations.
+* Input
+<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/input.PNG" alt="alt text" width="850" height="500">
+
+* Output
+<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/output.PNG" alt="alt text" width="850" height="500">
+
 
 
