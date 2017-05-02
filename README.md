@@ -80,8 +80,8 @@ We created a user interface using jupyter notebook. The user is able to browse f
 <b>Layers activations visualization</b>
 After running the code we added an extra function to visualize all layer activations outputs. That helps to understand what the network is doing given specific input. We used functions adopted from medium.com in which the first function applies the activations to a given input image at a given layer. The second function plots the results of those activations. In a given layer, each filter has learned to activate optimally for different features of the image. We’re showing here the activations of the first six filters of ‘conv1’ layer that has 32 filters:
 
-<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/fig1.PNG" alt="alt text" width="850" height="500">
-<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/fig2.PNG" alt="alt text" width="850" height="500">
+<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/fig1.png" alt="alt text" width="850" height="500">
+<img src="https://github.com/manumathewthomas/CS523Project1/blob/master/fig2.png" alt="alt text" width="850" height="500">
 ## Results
 Since we this was intended to run on a CPU we only trained it for 100 iterations.
 * Input
