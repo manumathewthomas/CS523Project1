@@ -1,5 +1,5 @@
 # Style Transfer
-<b>CAUTION<b>
+<b>!!!CAUTION - At the time we modified this project it was tensorflow v0.12 and now it's tensorflow v1.1. We could not run this project on the latest tensorflow version since a lot has changed.</b>
 
 ## Introduction
 Style transfer is the task of producing a pastiche image 'p' that shares the
