@@ -36,6 +36,8 @@ To run this project, you need to setup google's magenta enviornment. Please see 
   * autoinstall with anaconda
   * docker setup - This worked for us.
   
+After installing the enviornment run the nst notebook file.
+  
 ## Dataset
 For the training we did, we used Japanese art sytle image randomly picked from the internet.
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/dataset.PNG" alt="alt text" width="850" height="500">
