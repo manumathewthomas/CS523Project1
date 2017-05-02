@@ -17,7 +17,7 @@ In this project we ran a model of style transfer from the Magenta project by Goo
 * [Installation](#installation)
 * [Running](#running)
 * [Dataset](#dataset)
-* [Model explanations](#Model explanations)
+* [Model](#Model explanations)
 * [Results](#results)
 * [Improvements](#improvements)
 * [Credits](#credits)
@@ -46,7 +46,7 @@ After installing the enviornment run the nst notebook file.
 For the training we did, we used Japanese art sytle image randomly picked from the internet.
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/dataset.PNG" alt="alt text" width="850" height="500">
 
-## Model explanations 
+## Model 
 The model trains the network to create an image that is similar in content to content-image and similar in style to style-image. The Euclidian distance between the high-level features measures the content similarity between content-image and generated image. While the style similarity is estimated by reducing the differences between features’ Gram matrices of the style-image and generated image.  
 
 ## Main modules and functions
