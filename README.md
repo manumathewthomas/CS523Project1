@@ -50,7 +50,7 @@ For the training we did, we used Japanese art sytle image randomly picked from t
 The model trains the network to create an image that is similar in content to content-image and similar in style to style-image. The Euclidian distance between the high-level features measures the content similarity between content-image and generated image. While the style similarity is estimated by reducing the differences between features’ Gram matrices of the style-image and generated image.  
 
 ## Main modules and functions
-* Create dataset (module) 
+<b>Create dataset (module)</b> 
 It’s a module to create a dataset out of a list of style images. It reads structured directory of images and convert it into tensorflow record that can be read by the model. For each style in the dataset, it stores the style image as a JPEG string, a unique style label and the pre-computed Gram matrices. 
 
 * Image stylization train (module)
