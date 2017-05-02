@@ -84,6 +84,7 @@ After running the code we added an extra function to visualize all layer activat
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/fig2.png" alt="alt text" width="400" height="200">
 ## Results
 Since we this was intended to run on a CPU we only trained it for 100 iterations.
+
 * Input
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/input.PNG" alt="alt text" width="850" height="500">
 
