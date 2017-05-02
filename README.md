@@ -49,5 +49,10 @@ Since we this was intended to run on a CPU we only trained it for 100 iterations
 * Output
 <img src="https://github.com/manumathewthomas/CS523Project1/blob/master/output.PNG" alt="alt text" width="850" height="500">
 
+## Improvement
+* Train for a longer period of time
+* Ability to select multiple styles for one Image
 
+## Credits
+[Google Magenta](https://magenta.tensorflow.org/welcome-to-magenta)
 
